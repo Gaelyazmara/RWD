@@ -1,0 +1,10 @@
+img {
+    max-width: 100%;
+    display: block;
+}
+
+p {
+    margin: 0 auto;
+    background-color: red;
+}
+
